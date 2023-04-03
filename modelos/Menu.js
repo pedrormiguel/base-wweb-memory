@@ -38,7 +38,7 @@ function validarRespuesta(texto) {
 
         case '1' :
         case '0' :
-        case '-1':     
+        case '2':     
             break;
     
         default:
